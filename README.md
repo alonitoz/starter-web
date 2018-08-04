@@ -9,7 +9,7 @@ comparision in git
 
 
 #INTRODUCTION
-
+this is a simple readme file to show how to use git and github together
 
 ##DEPLOYMENT
 
