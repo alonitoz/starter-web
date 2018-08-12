@@ -3,8 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
 
+  alona webdeveloper  alonTweet@tweeter.co
+  
+  
 # THANKS
 
     <name>
