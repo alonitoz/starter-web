@@ -24,6 +24,8 @@ As stated above the main goal is to provide an environment for git
 
 ##HOW TO CONTRIBUTE
 
+you can fork this repository and make some changes..
+
 ####COPY RIGHT
  
 2018 git training copy right
